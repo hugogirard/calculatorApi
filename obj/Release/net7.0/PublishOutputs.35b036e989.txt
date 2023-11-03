@@ -1,0 +1,13 @@
+C:\github\calculatorApi\src\CalculatorApi\bin\Release\net7.0\publish\CalculatorApi.exe
+C:\github\calculatorApi\src\CalculatorApi\bin\Release\net7.0\publish\appsettings.Development.json
+C:\github\calculatorApi\src\CalculatorApi\bin\Release\net7.0\publish\appsettings.json
+C:\github\calculatorApi\src\CalculatorApi\bin\Release\net7.0\publish\CalculatorApi.dll
+C:\github\calculatorApi\src\CalculatorApi\bin\Release\net7.0\publish\CalculatorApi.deps.json
+C:\github\calculatorApi\src\CalculatorApi\bin\Release\net7.0\publish\CalculatorApi.runtimeconfig.json
+C:\github\calculatorApi\src\CalculatorApi\bin\Release\net7.0\publish\CalculatorApi.pdb
+C:\github\calculatorApi\src\CalculatorApi\bin\Release\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\github\calculatorApi\src\CalculatorApi\bin\Release\net7.0\publish\Microsoft.OpenApi.dll
+C:\github\calculatorApi\src\CalculatorApi\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\github\calculatorApi\src\CalculatorApi\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\github\calculatorApi\src\CalculatorApi\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\github\calculatorApi\src\CalculatorApi\bin\Release\net7.0\publish\CalculatorApi.xml

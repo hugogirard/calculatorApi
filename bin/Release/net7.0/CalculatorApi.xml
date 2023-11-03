@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CalculatorApi</name>
+    </assembly>
+    <members>
+        <member name="M:CalculatorApi.Controllers.CalculatorController.Add(System.Int32,System.Int32)">
+            <summary>
+            Add two integers
+            </summary>
+            <param name="a">First operand. Default value is 51.</param>
+            <param name="b">Second operand. Default value is 49.</param>
+            <returns></returns>
+        </member>
+        <member name="M:CalculatorApi.Controllers.CalculatorController.Subtract(System.Int32,System.Int32)">
+            <summary>
+            Subtract two integers
+            </summary>
+            <param name="a">First operand. Default value is 51.</param>
+            <param name="b">Second operand. Default value is 49.</param>
+            <returns></returns>
+        </member>
+        <member name="M:CalculatorApi.Controllers.CalculatorController.Multiply(System.Int32,System.Int32)">
+            <summary>
+            Multiply two integers
+            </summary>
+            <param name="a">First operand. Default value is 51.</param>
+            <param name="b">Second operand. Default value is 49.</param>
+            <returns></returns>
+        </member>
+        <member name="M:CalculatorApi.Controllers.CalculatorController.Divide(System.Int32,System.Int32)">
+            <summary>
+            Divide two integers
+            </summary>
+            <param name="a">First operand. Default value is 51.</param>
+            <param name="b">Second operand. Default value is 49.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
