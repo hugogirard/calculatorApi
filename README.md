@@ -45,5 +45,5 @@ curl "$site" # Optionally, copy and paste the output of the previous command int
 # </FullScript>
 
 # echo "Deleting all resources"
-```
 # az group delete --name $resourceGroup -y
+```
