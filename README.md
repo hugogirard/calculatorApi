@@ -28,7 +28,7 @@ az group create --name $resourceGroup --location "$location" --tag $tag
 
 # Create an App Service plan in `BASIC` tier.
 echo "Creating $appServicePlan"
-az appservice plan create --name $appServicePlan --resource-group $resourceGroup --sku Basic
+az appservice plan create --name $appServicePlan --resource-group $resourceGroup --sku B1
 
 # Create a web app.
 echo "Creating $webapp"
